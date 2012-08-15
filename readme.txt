@@ -1,4 +1,4 @@
-=== Duplicate TEC Event ===
+=== Duplicate The Events Calendar Event ===
 Contributors: FreshMuse, blobaugh
 Tags: events, clone, duplicate, modern tribe, the events calendar 
 Requires at least: 3.1
